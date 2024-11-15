@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:untitled1/Home/HomeRoute.dart';
-import 'package:untitled1/Note/NoteRoute.dart';
 import 'package:untitled1/Utilities/CustomColors.dart';
 
 void main() {
